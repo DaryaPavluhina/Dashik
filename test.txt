@@ -1,2 +1,2 @@
-blabla
+print('Hello')
 print('Dashusya')
